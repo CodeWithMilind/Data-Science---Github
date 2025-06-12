@@ -66,7 +66,10 @@ Visuals used:
 
 ## 📸 Sample Visual
 
-![Genre Distribution](insert-image-link-if-uploaded)
+![Genre Distribution](./img1.png)
+![Genre Distribution](./img2.png)
+![Genre Distribution](./img3.png)
+
 
 ---
 
