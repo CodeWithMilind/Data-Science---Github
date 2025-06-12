@@ -100,5 +100,5 @@ Thanks to my teacher for providing the dataset and guidance. Inspired by real st
 ## 📬 Contact
 
 **Milind Chaudhari**  
-LinkedIn | GitHub | Email (optional)
+LinkedIn | GitHub | Email (codewithmilind@gmail.com)
 
