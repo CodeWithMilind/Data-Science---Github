@@ -6,13 +6,13 @@ This project focuses on predicting whether a loan will be approved or not based 
 
 ## 📂 Project Structure
 
-├── loan_approved.csv # Raw original dataset
-├── FinalData.csv # Final cleaned and preprocessed dataset
-├── practice.ipynb # Rough notebook for initial practice and testing
-├── LogReg.ipynb # Logistic Regression model implementation
-├── LinReg.ipynb # Linear Regression model (for learning/comparison)
-├── KNN.ipynb # K-Nearest Neighbors model
-├── README.md # Project documentation
+├── loan_approved.csv # Raw original dataset <br>
+├── FinalData.csv # Final cleaned and preprocessed dataset <br>
+├── practice.ipynb # Rough notebook for initial practice and testing <br>
+├── LogReg.ipynb # Logistic Regression model implementation <br>
+├── LinReg.ipynb # Linear Regression model (for learning/comparison) <br>
+├── KNN.ipynb # K-Nearest Neighbors model <br>
+├── README.md # Project documentation <br>
 
 ---
 
