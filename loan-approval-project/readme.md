@@ -18,7 +18,7 @@ This project focuses on predicting whether a loan will be approved or not based 
 
 ## 📁 Dataset
 
-### 📌 loan_approvement.csv
+### 📌 loan_approved.csv
 
 Original dataset with raw information of loan applicants.
 
