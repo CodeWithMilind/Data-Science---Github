@@ -1,0 +1,43 @@
+1. heatmap only works on numerical columns- to show relationship between numerical values egg agge , durationn , campaign 
+
+2. portugeese data csv file was in ; format so i used sep=";" parameter in pd.readcsv() 
+
+3. i leaned how to analyze heattmap :
+    
+    correlation rule :
+        | Correlation value                    | Strength | Usefulness      |
+        | ------------------------------------ | -------- | --------------- |
+        |    +0.7 to +1.0    or -0.7 to -1.0   | Strong   | Very useful     |
+        |   +0.3 to +0.7   or   -0.3 to -0.7   | Moderate | Useful          |
+        |   0 to ± 0.3                         | Weak     | Not very useful |
+
+    4. build your model without deleting (not useful columns) if your modeldont work better then try with removing them 
+
+        1️⃣ Start with all columns
+        Train a baseline model (like Logistic Regression or Random Forest).
+        Check its accuracy.
+
+        2️⃣ Then remove low-correlation features
+        Drop those columns with correlation near zero and retrain.
+
+        3️⃣ Compare performance
+
+        If accuracy stays same or improves → removing them helped ✅
+
+        If accuracy drops → keep them back 🔄
+    
+    5. Created a Python function using Seaborn and Matplotlib to automatically plot boxplots of all numerical columns in a dataset for quick outlier detection and data visualization.
+
+    6.    
+
+
+
+  
+---------------------------------------------------------------
+
+look the all file annd search hhow its calculation done in background by statistically
+
+outliers not removed all so if model iis not work good then remove all outliers
+
+    in campaign outlier do this if model not training better : (✅ Either option is fine; I recommend capping so your data size doesn’t reduce too much.)
+
