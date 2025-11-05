@@ -47,7 +47,16 @@
 
     9. i used SMOTE to balance both target variables after that accuracy became 77% but
             
+    10. make a report where all is written 
+             ai tools used for only making functions
 
+    11. make your special analysis function file 
+        upload it in github which anyone can download through pip and use it - get your credit
+        it should be used by importing 
+        try to add features and leaen it all flow of working
+        use it only for quick shortcut for analysis but always learn backgroud of it
+        RESUME ---> <add it in your achievements> --> linkedin
+        how can i collab with python and make this global library
 
 
   
