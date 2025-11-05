@@ -53,7 +53,7 @@
     11. make your special analysis function file 
         upload it in github which anyone can download through pip and use it - get your credit
         it should be used by importing 
-        try to add features and leaen it all flow of working
+        try to add features and learn it all flow of working
         use it only for quick shortcut for analysis but always learn backgroud of it
         RESUME ---> <add it in your achievements> --> linkedin
         how can i collab with python and make this global library
