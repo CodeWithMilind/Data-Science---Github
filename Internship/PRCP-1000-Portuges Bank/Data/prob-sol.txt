@@ -58,7 +58,13 @@
         RESUME ---> <add it in your achievements> --> linkedin
         how can i collab with python and make this global library
 
+    12. in pipeline it is good to encode your data before 
+            if you did not encode data then you should to use ColumnTransformer and that becomes complex to understand 
 
+            encoded data for pipeline is best 
+            decoded data is more complex ---> everything is Same.
+
+    
   
 ---------------------------------------------------------------
 
