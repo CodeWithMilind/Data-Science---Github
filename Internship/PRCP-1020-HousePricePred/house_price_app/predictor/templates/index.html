@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head><title>House Price Prediction</title></head>
+<body>
+    <h2>Enter House Details</h2>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Predict Price</button>
+    </form>
+</body>
+</html>
